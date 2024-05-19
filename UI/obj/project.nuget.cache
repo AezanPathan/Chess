@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ju+xXD+iBkfllFEOxWZUYjm9bFtCPAFUYkdw1/Yur9mBcv9eA+NA6RlMSt1rAqUrLFQIHhqnWk2d2y5uzSwXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aezankhan Pathan\\Desktop\\Chess\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aezankhan Pathan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Aezankhan Pathan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Aezankhan Pathan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Aezankhan Pathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

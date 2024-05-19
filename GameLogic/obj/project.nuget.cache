@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gsJv9AVyU2jqgfqjJH7dOC1TSt+nzVg++66BszJ2+SwupJH0/lKXLMbKnOtcca1cmfBoYPJPobEYHLQ7s3nrNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aezankhan Pathan\\Desktop\\Chess\\GameLogic\\GameLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aezankhan Pathan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Aezankhan Pathan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Aezankhan Pathan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

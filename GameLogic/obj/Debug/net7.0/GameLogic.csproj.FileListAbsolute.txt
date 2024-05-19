@@ -1,0 +1,11 @@
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\bin\Debug\net7.0\GameLogic.deps.json
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\bin\Debug\net7.0\GameLogic.dll
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\bin\Debug\net7.0\GameLogic.pdb
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\GameLogic.AssemblyInfoInputs.cache
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\GameLogic.AssemblyInfo.cs
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\GameLogic.dll
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\refint\GameLogic.dll
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\GameLogic.pdb
+C:\Users\Aezankhan Pathan\Desktop\Chess\GameLogic\obj\Debug\net7.0\ref\GameLogic.dll

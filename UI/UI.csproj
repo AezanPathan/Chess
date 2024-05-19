@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\b_king_png_shadow_1024px.png" />
+    <None Remove="Assets\b_knight_png_shadow_1024px.png" />
+    <None Remove="Assets\b_pawn_png_shadow_1024px.png" />
+    <None Remove="Assets\b_queen_png_shadow_1024px.png" />
+    <None Remove="Assets\b_rook_png_shadow_1024px.png" />
+    <None Remove="Assets\Portablejim_D_Chess_Set_Chessboard_clip_art_hight.png" />
+    <None Remove="Assets\w_bishop_png_shadow_1024px.png" />
+    <None Remove="Assets\w_king_png_shadow_1024px.png" />
+    <None Remove="Assets\w_knight_png_shadow_1024px.png" />
+    <None Remove="Assets\w_pawn_png_shadow_1024px.png" />
+    <None Remove="Assets\w_queen_png_shadow_1024px.png" />
+    <None Remove="Assets\w_rook_png_shadow_1024px.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameLogic\GameLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\b_king_png_shadow_1024px.png" />
+    <Resource Include="Assets\b_knight_png_shadow_1024px.png" />
+    <Resource Include="Assets\b_pawn_png_shadow_1024px.png" />
+    <Resource Include="Assets\b_queen_png_shadow_1024px.png" />
+    <Resource Include="Assets\b_rook_png_shadow_1024px.png" />
+    <Resource Include="Assets\Portablejim_D_Chess_Set_Chessboard_clip_art_hight.png" />
+    <Resource Include="Assets\w_bishop_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_king_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_knight_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_pawn_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_queen_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_rook_png_shadow_1024px.png" />
+  </ItemGroup>
+
+</Project>
